@@ -71,30 +71,11 @@
 
 ## Repositories
 
-| Repository | Description | Visibility | Status |
-|------------|-------------|------------|--------|
-| [`gis-spec`](https://github.com/nxgeninfra/gis-spec) | GPU Instance Specification (spec, schema, examples) | 🔓 Public | 🟢 Active |
-| [`.github`](https://github.com/nxgeninfra/.github) | Org profile, templates, community health | 🔓 Public | 🟢 Active |
-| `computespec-site` | computespec.dev website | 🔒 Private | 🟢 Active |
-| `gis-data` | GPU offerings catalog (50+ providers) | 🔒 Private | 🟡 In development |
-| `gis-pipeline` | Automated data collection | 🔒 Private | 🟡 In development |
-| `gis-tools` | Validators, CLI tools | 🔒 Private | 🟡 In development |
-| `brand` | Brand assets & guidelines | 🔒 Private | 🟢 Active |
+| Repository | Description | License |
+|------------|-------------|---------|
+| [`gis-spec`](https://github.com/nxgeninfra/gis-spec) | GPU Instance Specification — spec, JSON schema, examples | CC BY 4.0 |
 
----
-
-## The Model
-
-| Layer | Open / Closed | Access |
-|-------|---------------|--------|
-| GIS Specification | 🔓 Open (CC BY 4.0) | Free forever |
-| JSON Schema + validators | 🔓 Open | Free forever |
-| Example GIS documents | 🔓 Open | Free forever |
-| Browse current GPU prices | 🔓 Open | [computespec.dev](https://computespec.dev) |
-| Historical price data | 🔒 Proprietary | Pro ($19/mo) |
-| Price alerts & exports | 🔒 Proprietary | Pro ($19/mo) |
-| REST API | 🔒 Proprietary | API ($29/mo) |
-| Provider certification | 🔒 Proprietary | Contact us |
+More specs coming as GIS gains adoption. See the [roadmap](https://computespec.dev).
 
 ---
 
