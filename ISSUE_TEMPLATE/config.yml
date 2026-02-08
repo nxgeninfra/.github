@@ -1,0 +1,14 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 🌐 Website
+    url: https://computespec.dev
+    about: Visit computespec.dev to browse GPU offerings and read the spec
+  - name: 💬 General Questions
+    url: mailto:hello@computespec.dev
+    about: For questions not related to bugs or features
+  - name: 📋 Spec Feedback
+    url: mailto:spec@computespec.dev
+    about: Feedback on the GPU Instance Specification
+  - name: 🐦 Twitter
+    url: https://x.com/nxgeninfra
+    about: Follow us for updates
